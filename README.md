@@ -1,3 +1,8 @@
+# My personal porfolio built from scratch using React
+See the live app at [www.davidrhoton.com](http://www.davidrhoton.com).
+
+Based on MacLinz's [YouTube tutorial](https://youtu.be/ajgxZ5hBSHQ)
+#
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

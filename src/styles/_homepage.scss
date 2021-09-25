@@ -1,0 +1,52 @@
+.HomePage{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+}
+
+.hero-text{
+  color: white;
+  text-align: center;
+  font-size: 3.2rem;
+  span{
+    font-size: 3.6rem;
+    color: #037FFF;
+  }
+}
+
+.h-sub-text{
+  text-align: center;
+  font-size: 1.5rem;
+  img{
+    position: relative;
+    top: .5rem;
+    width: 2rem;
+    height: auto;
+    margin-right: .6rem;
+  }
+}
+
+.icons{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem 0;
+  .icon-holder{
+    &:not(:last-child){
+      margin-right: 1rem;
+    }
+    .icon{
+      font-size: 2.5rem;
+      color: #a4acc4;
+    }
+    .li:hover{
+      color: #0072b1;
+      background-color:white;
+    }
+    .gh:hover{
+      color: white;
+    }
+  }
+}
