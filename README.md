@@ -1,4 +1,4 @@
-# My personal porfolio built from scratch using React
+# My personal portfolio website built from scratch using React
 See the live app at [www.davidrhoton.com](http://www.davidrhoton.com).
 
 Based on MacLinz's [YouTube tutorial](https://youtu.be/ajgxZ5hBSHQ)
